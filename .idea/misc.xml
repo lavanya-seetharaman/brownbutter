@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/layout/activity_fill_menuscreen.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/layout/activity_main.xml" value="0.2288888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/layout/activity_main_screen.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/layout/dialog_signin.xml" value="0.5210396039603961" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/layout/ic_menu_24dp.xml" value="0.14609375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/webview/app/src/main/res/layout/slider_layout.xml" value="0.2546875" />
+        <entry key="..\:/VendorMachine Project/webview-androidapp-master/webview-androidapp-master/app/src/main/res/layout/activity_fill_menuscreen.xml" value="0.25" />
+        <entry key="..\:/VendorMachine Project/webview-androidapp-master/webview-androidapp-master/app/src/main/res/layout/activity_main_screen.xml" value="0.3578125" />
+        <entry key="..\:/VendorMachine Project/webview-androidapp-master/webview-androidapp-master/app/src/main/res/layout/activity_product_list.xml" value="0.33541666666666664" />
+        <entry key="..\:/VendorMachine Project/webview-androidapp-master/webview-androidapp-master/app/src/main/res/layout/product_listview.xml" value="0.33" />
+        <entry key="..\:/VendorMachine Project/webview-androidapp-master/webview-androidapp-master/app/src/main/res/layout/slider_layout.xml" value="0.33541666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3578125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Brown Butter</string>
+    <string name="button_name">Shop with Brown Butter</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="main_button">Press Here to Continue</string>
+    <string name="fill_menu_button">Fill Menu</string>
+    <string name="filling_menu_heading_text">Filling Menu</string>
+    <string name="exit_button">Exit</string>
+    <string name="sastaamart">sastaamart</string>
+    <string name="mainscreenname">Brown Butter</string>
+    <string name="page_title">MainScreen</string>
+    <string name="sastaamart_logo">sastaamart logo</string>
+
+    <string name="product_search_text">Product ID/Product Name/SKU</string>
+    <string name="hint">productID</string>
+    <string name="spinner_Col_text">Select slot ( A,B,C,D E)</string>
+    <string name="spinner_Row_text">Select row( 1, 2,3,4,5)</string>
+    <string name="GetProduct">Fetch Product List</string>
+    <string name="spinner_qty_prompt_text">Quantity</string>
+    <string name="qty">qty</string>
+    <string name="hint_qty">Update the Quantity</string>
+    <string name="add_new_product">add new product to DB</string>
+
+    <string name="reset">reset</string>
+    <string name="CurrentMachineStatus">Get Current Status</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="signin">signin</string>
+    <string name="cancel">cancel</string>
+
+    <string name="product_id">Product ID</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_qty">Product Quantity</string>
+    <string name="Minus">-</string>
+    <string name="Add">+</string>
+    <string name="Save">Save</string>
+    <string name="Confirm">CONFIRM</string>
+</resources>
